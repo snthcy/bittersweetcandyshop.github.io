@@ -24,4 +24,4 @@ Best to worst, my DMs are always open.
 - Revolt: @BitterSweet
 
 ## Projects as of now
-Just my bot that's hosted that makes use of *all* the cogs/commands on my BitterSweet-Cogs](https://github.com/BitterSweetcandyshop/BitterSweet-Cogs) cog list. The bot is going private on Aug 20th!
+Just my bot that's hosted that makes use of *all* the cogs/commands on my [BitterSweet-Cogs](https://github.com/BitterSweetcandyshop/BitterSweet-Cogs) cog list. The bot is going private on Aug 20th!
