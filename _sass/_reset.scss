@@ -51,13 +51,3 @@ table {
 *, *:before, *:after {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
-
-.wrapper-masthead {
-    background-image: url('https://cdn.discordapp.com/banners/927695547421310996/561dbb2adcb3878bcab04e821e61fc88.png?size=4096');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.masthead {
-	background-color: rgba(0, 0, 0, 0.25) !important;
-}

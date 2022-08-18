@@ -1,18 +1,39 @@
 ---
 layout: default
 ---
+<h1 style="text-align: center;">Welcome to the Candyshop</h1>
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+  <div class="pins">
+    {% for post in site.posts %}
+      {% if post.type == "pin" %}
+      <article class="blog pin">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% for post in site.posts %}
+    <article class="blog {{ post.type }}">
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <div class="tags">
+        {% for tag in post.tags %}
+          <p class="tag">{{ tag }}</p>
+        {% endfor %}
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

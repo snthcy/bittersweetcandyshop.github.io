@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Welcome to the Candyhshop
+type: pin
+title: Who is BitterSweet?
+excerpt: Just another weeb programmer in the piracy scene.
+tags: ['Hellow', 'Testing', 'Welcome']
 ---
-## Who is BitterSweet?
+## Who I was
 I used to go by the name Crenshaw(1312), now you can find me as BitterSweet(candyshop) on most sites.
 
-I spend a lot of my time reading and programming little scrapers to make life a fair bit easier,is a cog/commands list [BitterSweet-Cogs](https://github.com/BitterSweetcandyshop/BitterSweet-Cogs). This project is a pretty good example of the stuff I do, automation of things in the piracy scene.
 
 ## Hobbies
+I spend a lot of my time reading and programming little scrapers to make life a fair bit easier,is a cog/commands list [BitterSweet-Cogs](https://github.com/BitterSweetcandyshop/BitterSweet-Cogs). This project is a pretty good example of the stuff I do, automation of things in the piracy scene.
+
 - Manga reading (Romance (not hentai), Action/Gore)
 - Watching 2005-2016s cartoons (Generator Rex, Ben 10: Ultimate Alien)
 - Prgramming (duh)
