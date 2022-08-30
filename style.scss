@@ -30,7 +30,7 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, summary.h2 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
@@ -52,6 +52,9 @@ h1 {
 }
 
 h2 {
+  font-size: 24px;
+}
+summary.h2 {
   font-size: 24px;
 }
 
@@ -108,6 +111,59 @@ strong, b {
 
 img {
   max-width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  opacity: 80%; // You're welcome
+}
+
+details {
+  background-color: rgb(30,21,38);
+  margin: 10px 0px;
+  width: 100%;
+  border-radius: 5px;
+  summary {
+    padding-left: 10px;
+  }
+  &>:not(summary) {
+    background-color: rgb(46, 34, 57) !important;
+    padding: 5px 10px;
+    margin: 0px;
+    border-radius: 0px 0px 5px 5px;
+  }
+  ul {
+    padding-left: 35px;
+  }
+  b {
+    font-size: 18px;
+  }
+}
+
+table {
+  margin: 20px auto 10px auto;
+  background-color: rgb(30, 21, 38);
+
+  thead {
+    background-color: rgb(46, 34, 57);
+    margin-bottom: 10px;
+    border-bottom: 2px solid $white;
+  }
+
+  thead, tbody {
+    tr {
+      th, td {
+        border: 1px solid $white;
+        padding: 3px 5px;
+        &:first-child {
+          padding-right: 10px;
+        }
+        &:last-child {
+          padding-left: 10px;
+        }
+      }
+    }
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -370,10 +426,16 @@ img {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $darkGray;
+  display: flex;
+  flex-direction: column;
+  p {
+    padding: 0px;
+    text-align: center;
+  }
 }
 
 footer {
-  padding: 20px 0;
+  padding: 20px 0px 0px 0px;
   text-align: center;
 }
 
