@@ -28,8 +28,7 @@ Best to worst, my DMs are always open.
 - MyAnimeList: [BitterSweet1337](https://myanimelist.net/profile/BitterSweet1337)
 
 ## Projects as of now
-- **Bit** Just my bot that's hosted that makes use of *all* the cogs/commands on my [BitterSweet-Cogs](https://github.com/BitterSweetcandyshop/BitterSweet-Cogs) cog list. If you would like the bot shoot me a dm.
-- **Everyone's CandyShop** A collection of backends and cli tools to search for media on database sites like anilist and imdb etc for as many media types as possible.
+- **CandyLand** A modded nintendo switch with linux to act as both a media server and media client. I want to make use of the docking feature the switch has and the pre-made web portals for *arr apps so people can make their own in-depth customizations or quick ones with some custom software (flutter???). I think using Xmonad and making a DE that mocks the original switch look would be best, biggest issue will be the 4gb of ram v1 switch has.
 
 ## Why are you like everywhere?
 I like to go around to each piracy "type" and learn as much as I can while learning how to truely value that media type.
