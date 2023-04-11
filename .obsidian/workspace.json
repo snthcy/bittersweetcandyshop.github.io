@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e189814cdbe53de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b8da519d641dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8c5de3d7c1c867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-8-17-Chats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "812e7eaf3f49780e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f865a0461bcb3f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3112d111a983e54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "379c6ac5b823aaf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "645908b0abbaf63d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a1072e9c54a9917",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d54d16bee02e2b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a01358dd85c2592",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-8-17-Chats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "099835930abdaf53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-8-17-Chats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f4a0e83cdd45b1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "241ce625b19f3041",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-8-17-Chats.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa8c5de3d7c1c867",
+  "lastOpenFiles": [
+    "_posts/2022-8-26-Music.md",
+    "_posts/2023-2-2-The-Switch-Project.md",
+    "_posts/2022-9-23-Where-pirated-media-comes-fromm.md",
+    "_posts/2022-8-28-Intro-to-Bittorrent.md",
+    "404.md",
+    "about.md"
+  ]
+}
